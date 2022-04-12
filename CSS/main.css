@@ -1,0 +1,23 @@
+.columns-2 {
+  column-count: 3;
+
+}
+p{font-size: 26px;
+font-family:  "Arial";}
+li {font-size: 26px;}
+
+.con {font-size: 20;}
+img{width:170px  align=:left }
+nav{
+  background-color: black;
+ display: flex;
+ justify-content: center;
+}
+nav a{display: inline-block;
+margin-right: 155px;
+font-family: Arial;
+font-size: 30px;
+color: white;
+text-decoration: none;
+
+}
